@@ -274,20 +274,13 @@ rv <- create_reactive_values(input, data)
 - Via Kaggle (Sunja dataset)
 - Distributed through TidyTuesday project
 
-**Citation:**
-```
-National Retail Federation. "Valentine's Day Spending." 
-Annual Consumer Surveys, 2009-2022. 
-Accessed via Kaggle, 2024.
-```
-
 ---
 
 ## Acknowledgments
 
 - **Data:** National Retail Federation, Suraj Das on Kaggle
-- **Technical Stack:** Shiny, Plotly, tidyverse ecosystem
-- **Legend Box Fix:** Plotly annotation approach (see `LEGEND_BOX_FIX.md`)
+- **Technical stack:** Shiny, Plotly, tidyverse ecosystem
+- **Legend box fix:** Plotly annotation approach (see `LEGEND_BOX_FIX.md`)
 
 ---
 
@@ -303,6 +296,6 @@ Accessed via Kaggle, 2024.
 
 **Built using R Shiny**
 
-*Last Updated: February 2026*
+*Last updated: February 2026*
 
-*Dashboard Version: 1.0.0*
+*Dashboard version: 1.0.0*
