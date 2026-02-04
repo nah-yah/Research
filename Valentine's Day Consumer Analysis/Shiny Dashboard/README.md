@@ -38,10 +38,6 @@ install.packages(c(
 ### Installation
 
 1. **Clone or download this repository**
-   ```bash
-   git clone <your-repo-url>
-   cd valentines_dashboard
-   ```
 
 2. **Add your data files**
    - Place all CSV files in `data/` folder
@@ -188,7 +184,7 @@ Background:  #fff5f7  (Light Pink)
 
 ### 1. **Data loading strategy**
 ```r
-# data loaded ONCE at app startup (not per session)
+# data loaded once at app startup (not per session)
 data <- load_valentines_data()
 data <- calculate_derived_data(data)
 data <- generate_forecasts(data)
