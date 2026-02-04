@@ -283,7 +283,7 @@ Accessed via Kaggle, 2024.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Data:** National Retail Federation, Suraj Das on Kaggle
 - **Technical Stack:** Shiny, Plotly, tidyverse ecosystem
@@ -302,5 +302,7 @@ Accessed via Kaggle, 2024.
 ---
 
 **Built using R Shiny**
+
 *Last Updated: February 2026*
+
 *Dashboard Version: 1.0.0*
