@@ -59,7 +59,6 @@ options(kableExtra.latex.load_packages = FALSE)
 ```
 
 ```{r librairies, eval=TRUE, include=FALSE}
-setwd("C:/Users/woodn/OneDrive/Desktop/Research")
 
 library(dplyr)
 library(tidyverse)
@@ -1229,4 +1228,5 @@ La variation limitée des résultats selon ces différentes spécifications atte
 \listoftables
 
 \listoffigures
+
 
